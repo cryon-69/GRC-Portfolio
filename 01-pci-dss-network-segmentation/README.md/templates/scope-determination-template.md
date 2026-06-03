@@ -1,14 +1,17 @@
 # PCI DSS Scope Determination Document
 
 ## Document Information
-```
+
+--- 
+
 | Field | Value |
 |-------|-------|
 | Organization | [Company Name] |
 | Assessment Date | [Date] |
 | Assessor | [Your Name] |
 | Version | 1.0 |
-```
+
+---
 
 ## 1. Executive Summary
 
