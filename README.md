@@ -1,5 +1,6 @@
 # GRC-Portfolio
 A practical portfolio of Governance, Risk, and Compliance projects that demonstrate **judgment, not memorization**. These projects mirror how security decisions are actually made inside organizations.
+```text
 +------------------------------------------------------------------+
 |                     GRC PROFESSIONAL MINDSET                     |
 +------------------------------------------------------------------+
@@ -14,6 +15,7 @@ A practical portfolio of Governance, Risk, and Compliance projects that demonstr
 |  Framework lists      Business context      Trade-off analysis   |
 |                                                                  |
 +------------------------------------------------------------------+
+```
 ## Why This Portfolio Exists
 
 The GRC market has matured. Framework familiarity is assumed. Documentation alone is no longer impressive.
