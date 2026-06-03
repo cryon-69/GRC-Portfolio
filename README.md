@@ -34,16 +34,13 @@ The GRC market has matured. Framework familiarity is assumed. Documentation alon
 
 ---
 
-## Portfolio Projects
-
 | # | Project | Framework/Domain | Core Skill Demonstrated |
 |---|---------|-----------------|------------------------|
-| 01 | [PCI DSS Network Segmentation Review](#) | PCI DSS | Defending risk claims under audit scrutiny |
-| 02 | [ISO 27001 Statement of Applicability](#) | ISO 27001 | Risk-driven control exclusions |
-| 03 | [EU AI Act High-Risk Assessment](#) | EU AI Act | Translating regulation to operational reality |
-| 04 | [GRC Control Automation](#) | GRC Engineering | Bridging governance and engineering |
-| 05 | [Risk Acceptance Documentation](#) | Enterprise Risk | Communicating risk to business leaders |
-
+| 01 | [PCI DSS Network Segmentation Review](./01-pci-dss-network-segmentation/README.md) | PCI DSS | Defending risk claims under audit scrutiny |
+| 02 | [ISO 27001 Statement of Applicability](./02-iso27001-statement-of-applicability/README.md) | ISO 27001 | Risk-driven control exclusions |
+| 03 | [EU AI Act High-Risk Assessment](./03-eu-ai-act-high-risk-assessment/README.md) | EU AI Act | Translating regulation to operational reality |
+| 04 | [GRC Control Automation](./04-grc-control-automation/README.md) | GRC Engineering | Bridging governance and engineering |
+| 05 | [Risk Acceptance Documentation](./05-risk-acceptance-documentation/README.md) | Enterprise Risk | Communicating risk to business leaders |
 ---
 
 ## The Difference Between Weak and Strong GRC Work
