@@ -79,12 +79,14 @@ The GRC market has matured. Framework familiarity is assumed. Documentation alon
 ---
 
 ## Project Structure (Each Folder)
+```
 project-folder/
 ├── README.md           # Project overview and instructions
 ├── scenario.md         # Detailed scenario description
 ├── templates/          # Working templates to complete
 ├── examples/           # Reference examples (not to copy)
 └── deliverables/       # Your completed work goes here
+```
 ---
 
 ## Success Metrics
