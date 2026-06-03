@@ -5,10 +5,10 @@ A practical portfolio of Governance, Risk, and Compliance projects that demonstr
 |                     GRC PROFESSIONAL MINDSET                     |
 +------------------------------------------------------------------+
 |                                                                  |
-|  +------------+       +------------+       +------------+       |
-|  | Activity   |       | Impact     |       | Judgment   |       |
-|  | (Weak)     |  ≠    | (Strong)   |  =    | (Goal)     |       |
-|  +------------+       +------------+       +------------+       |
+|  +------------+       +------------+       +------------+        |
+|  | Activity   |       | Impact     |       | Judgment   |        |
+|  | (Weak)     |  ≠    | (Strong)   |  =    | (Goal)     |        |
+|  +------------+       +------------+       +------------+        |
 |                                                                  |
 |  Control mappings     Risk-driven           Defending decisions  |
 |  Policy templates     decisions             under uncertainty    |
@@ -47,6 +47,7 @@ The GRC market has matured. Framework familiarity is assumed. Documentation alon
 ---
 
 ## The Difference Between Weak and Strong GRC Work
+```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                        WEAK GRC PROJECT                                      │
 ├──────────────────────────────────────────────────────────────────────────────┤
@@ -74,6 +75,7 @@ The GRC market has matured. Framework familiarity is assumed. Documentation alon
 │  Result: Demonstrates judgment. Shows how you think.                         │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
+```
 ---
 
 ## Project Structure (Each Folder)
@@ -100,6 +102,7 @@ Your project is strong if you can answer "yes" to these questions:
 ---
 
 ## Real GRC Truth
+```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
 │   "Real GRC work is messy. Requirements are vague. Business constraints     │
@@ -108,4 +111,5 @@ Your project is strong if you can answer "yes" to these questions:
 │    rather hear simple answers."                                             │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
+```
 ---
