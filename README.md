@@ -1,4 +1,276 @@
-# GRC-Portfolio
+# Governance, Risk & Compliance (GRC) Portfolio
+
+## Overview
+
+This repository contains a collection of practical Governance, Risk & Compliance (GRC) projects designed to demonstrate real-world security governance, compliance, risk management, audit readiness, and security assessment skills.
+
+The projects simulate engagements commonly performed by GRC analysts, ISMS consultants, compliance specialists, internal auditors, and cybersecurity consultants working with frameworks such as:
+
+- ISO/IEC 27001:2022
+- PCI DSS v4.0
+- SOC 2
+- EU AI Act
+- NIST Cybersecurity Framework
+- Risk Management Frameworks
+- Continuous Controls Monitoring (CCM)
+
+The objective of this portfolio is to demonstrate not only knowledge of compliance frameworks, but also the ability to apply risk-based thinking, perform security assessments, document findings, and communicate recommendations in a manner suitable for auditors, regulators, and business stakeholders.
+
+---
+
+# Skills Demonstrated
+
+## Governance
+
+- Information Security Governance
+- Security Policy Evaluation
+- Statement of Applicability (SoA)
+- Security Control Assessment
+- Security Program Development
+
+## Risk Management
+
+- Risk Identification
+- Risk Assessment
+- Risk Treatment Planning
+- Risk Acceptance
+- Residual Risk Evaluation
+
+## Compliance
+
+- ISO 27001
+- PCI DSS
+- SOC 2
+- EU AI Act
+- Internal Audit Preparation
+
+## Security Operations & Architecture
+
+- Identity & Access Management
+- Network Segmentation
+- Security Monitoring
+- Secure Development Lifecycle
+- Compliance Automation
+
+## Documentation & Audit Readiness
+
+- Audit Evidence Preparation
+- Compliance Reporting
+- Executive Risk Reporting
+- Gap Assessments
+- Auditor-Facing Documentation
+
+---
+# Portfolio's Project Roadmap
+
+## Project 01 — PCI DSS Scope Determination & Network Segmentation Assessment
+
+### Objective
+
+Determine the true Cardholder Data Environment (CDE), evaluate segmentation effectiveness, identify hidden PCI scope, and prepare for a future PCI DSS assessment.
+
+### Key Activities
+
+- Scope Determination
+- Data Flow Analysis
+- Trust Relationship Assessment
+- Network Segmentation Review
+- Security Impact Analysis
+- Audit Readiness Assessment
+
+### Skills Demonstrated
+
+- PCI DSS v4.0
+- Network Security
+- Scope Reduction
+- Risk Assessment
+- Security Governance
+
+**Project Folder:** `01-pci-dss-scope-determination`
+
+---
+
+## Project 02 — ISO 27001 Statement of Applicability Assessment
+
+### Objective
+
+Develop and assess an ISO/IEC 27001:2022 Statement of Applicability for a cloud-native SaaS organization preparing for certification.
+
+### Key Activities
+
+- ISMS Scope Definition
+- Control Applicability Assessment
+- Risk-Based Control Selection
+- Justified Control Exclusions
+- Certification Readiness Review
+
+### Skills Demonstrated
+
+- ISO/IEC 27001
+- Information Security Governance
+- Risk Management
+- Internal Audit Preparation
+- Compliance Documentation
+
+**Project Folder:** `02-iso27001-statement-of-applicability`
+
+---
+
+## Project 03 — EU AI Act High-Risk AI Assessment
+
+### Objective
+
+Assess an AI-powered recruitment platform against EU AI Act requirements and determine deployment readiness.
+
+### Key Activities
+
+- High-Risk Classification Analysis
+- Fundamental Rights Impact Assessment
+- Human Oversight Review
+- Bias & Fairness Assessment
+- AI Governance Evaluation
+
+### Skills Demonstrated
+
+- AI Governance
+- Responsible AI
+- Risk Assessment
+- Regulatory Compliance
+- Compliance Documentation
+
+**Project Folder:** `03-eu-ai-act-assessment`
+
+---
+
+## Project 04 — GRC Control Automation Design
+
+### Objective
+
+Design an automated User Access Review (UAR) control to replace a manual compliance process and improve audit readiness.
+
+### Key Activities
+
+- Continuous Controls Monitoring
+- Access Governance
+- Compliance Automation
+- Evidence Generation
+- Control Design
+
+### Skills Demonstrated
+
+- SOC 2
+- ISO 27001
+- IAM
+- Compliance Automation
+- Security Operations
+
+**Project Folder:** `04-grc-control-automation`
+
+---
+
+## Project 05 — Risk Acceptance Assessment
+
+### Objective
+
+Evaluate a legacy VPN authentication risk, compare remediation options, and provide an executive-level risk acceptance recommendation.
+
+### Key Activities
+
+- Risk Analysis
+- Cost-Benefit Assessment
+- Residual Risk Evaluation
+- Executive Reporting
+- Risk Treatment Planning
+
+### Skills Demonstrated
+
+- Risk Management
+- Security Governance
+- Business Risk Analysis
+- ISO 27001 Risk Treatment
+- Executive Communication
+
+**Project Folder:** `05-risk-acceptance-assessment`
+
+---
+
+# Portfolio Learning Outcomes
+
+Through these projects, I developed practical experience in:
+
+- Assessing security controls against industry frameworks
+- Performing risk-based decision making
+- Evaluating compliance requirements
+- Documenting security findings
+- Preparing auditor-ready evidence
+- Designing governance and compliance processes
+- Communicating technical risks to business stakeholders
+
+---
+
+# Target Roles
+
+This portfolio aligns closely with responsibilities commonly found in:
+
+- GRC Analyst
+- Information Security Analyst
+- ISMS Analyst
+- Compliance Analyst
+- Cyber Risk Consultant
+- Security Governance Analyst
+- Internal Audit Associate
+- Risk & Compliance Associate
+- Security Compliance Specialist
+
+---
+
+# Frameworks Covered
+
+| Framework | Coverage |
+|------------|------------|
+| ISO/IEC 27001:2022 | ✔ |
+| PCI DSS v4.0 | ✔ |
+| SOC 2 | ✔ |
+| EU AI Act | ✔ |
+| NIST CSF | ✔ |
+| Risk Management Practices | ✔ |
+
+---
+
+# About Me
+
+I am a cybersecurity and GRC professional with interests in:
+
+- Security Governance
+- Compliance
+- Risk Management
+- Audit Readiness
+- Information Security
+- Cloud Security Governance
+- AI Governance
+
+This portfolio represents practical case-study projects created to strengthen real-world GRC skills and demonstrate applied security governance capabilities.
+
+---
+
+# Why This Portfolio Exists
+
+Many compliance projects focus only on controls and checklists.
+
+The objective of this portfolio is different.
+
+Each project is designed to answer questions such as:
+
+- What is the actual risk?
+- Which assumptions are unsafe?
+- How would an auditor challenge this?
+- What evidence supports the conclusion?
+- What business decision should be made?
+
+The goal is to demonstrate practical GRC thinking rather than compliance theatre.
+
+---
+
 A practical portfolio of Governance, Risk, and Compliance projects that demonstrate **judgment, not memorization**. These projects mirror how security decisions are actually made inside organizations.
 ```text
 +------------------------------------------------------------------+
@@ -75,31 +347,6 @@ The GRC market has matured. Framework familiarity is assumed. Documentation alon
 ```
 ---
 
-## Project Structure (Each Folder)
-```
-project-folder/
-├── README.md           # Project overview and instructions
-├── scenario.md         # Detailed scenario description
-├── templates/          # Working templates to complete
-├── examples/           # Reference examples (not to copy)
-└── deliverables/       # Your completed work goes here
-```
----
-
-## Success Metrics
-
-Your project is strong if you can answer "yes" to these questions:
-
-| Question | Why It Matters |
-|----------|---------------|
-| Would this survive a real audit? | Auditors challenge assumptions |
-| Can I explain this to a non-technical executive? | GRC bridges technical and business |
-| Have I documented what I *excluded* and why? | Exclusions show judgment |
-| Did I identify where the argument breaks down? | Honesty builds credibility |
-| Can I walk someone through my reasoning in 5 minutes? | Communication is the job |
-
----
-
 ## Real GRC Truth
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -112,3 +359,9 @@ Your project is strong if you can answer "yes" to these questions:
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 ---
+
+## Author
+
+**Swayam Nandi**
+
+Governance • Risk • Compliance • Security
