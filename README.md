@@ -5,16 +5,68 @@
 
 # Governance, Risk & Compliance (GRC) Portfolio
 
+## 📂 Repository Structure
+
 ```text
-GRC-Portfolio/
+📦 GRC-Portfolio
 │
-├── 01-pci-dss-scope-determination
-├── 02-iso27001-statement-of-applicability
-├── 03-eu-ai-act-assessment
-├── 04-grc-control-automation
-├── 05-risk-acceptance-assessment
+├── 📁 01-pci-dss-scope-determination
+│   └── PCI DSS v4.0 Scope Determination & Network Segmentation Assessment
 │
-└── README.md
+├── 📁 02-iso27001-statement-of-applicability
+│   └── ISO/IEC 27001:2022 Statement of Applicability (SoA)
+│
+├── 📁 03-eu-ai-act-assessment
+│   └── EU AI Act High-Risk AI System Assessment
+│
+├── 📁 04-grc-control-automation
+│   └── Automated User Access Review (UAR) Control Design
+│
+├── 📁 05-risk-acceptance-assessment
+│   └── Legacy VPN Risk Acceptance Assessment
+│
+├── 📁 06-third-party-risk-assessment
+│   └── Vendor Security Due Diligence & TPRM Assessment
+│
+└── 📄 README.md
+    └── Portfolio Overview & Project Roadmap
+```
+
+---
+
+## 🗺️ Portfolio Roadmap
+
+```mermaid
+flowchart LR
+
+    A["💳 PCI DSS"]
+    B["🛡️ ISO 27001"]
+    C["🤖 EU AI Act"]
+    D["⚙️ GRC Automation"]
+    E["📉 Risk Acceptance"]
+    F["🏢 Third-Party Risk"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+```
+
+---
+
+## 🎯 Project Coverage
+
+| Project                        | Domain                | Framework         |
+| ------------------------------ | --------------------- | ----------------- |
+| 💳 PCI DSS Scope Determination | Compliance            | PCI DSS v4.0      |
+| 🛡️ Statement of Applicability | ISMS                  | ISO 27001         |
+| 🤖 High-Risk AI Assessment     | AI Governance         | EU AI Act         |
+| ⚙️ Control Automation          | Continuous Compliance | SOC 2 / ISO 27001 |
+| 📉 Risk Acceptance             | Risk Management       | ISO 27001         |
+| 🏢 Vendor Security Assessment  | Third-Party Risk      | TPRM              |
+
+```
 ```
 
 ## Overview
