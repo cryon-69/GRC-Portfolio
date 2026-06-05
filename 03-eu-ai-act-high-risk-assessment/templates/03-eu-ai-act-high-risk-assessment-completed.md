@@ -499,6 +499,20 @@ Following remediation of identified findings, the system would be suitable for o
 
 ---
 
+#Mermaid Diagram
+
+```mermaid
+flowchart TD
+    RiskIdentification --> RiskAnalysis
+    RiskAnalysis --> RiskEvaluation
+    RiskEvaluation --> TreatmentDecision
+    TreatmentDecision --> Mitigate
+    TreatmentDecision --> Transfer
+    TreatmentDecision --> Accept
+    TreatmentDecision --> Avoid
+```
+---
+
 # Author
 
 **Swayam Nandi**
