@@ -515,6 +515,7 @@ Additional reviews will occur if:
 
 # Mermaid Diagram
 
+````md
 ```mermaid
 flowchart TD
 
@@ -529,7 +530,7 @@ flowchart TD
     ApprovalDecision --> ConditionalApproval
     ApprovalDecision --> Rejected
 ```
-
+````
 ---
 
 # Author
