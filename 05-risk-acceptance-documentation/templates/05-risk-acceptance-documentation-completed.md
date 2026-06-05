@@ -435,6 +435,20 @@ The decision reduced operational disruption while maintaining risk within accept
 
 ---
 
+# Mermaid Diagram
+
+```mermaid
+flowchart TD
+    RiskIdentification --> RiskAnalysis
+    RiskAnalysis --> RiskEvaluation
+    RiskEvaluation --> TreatmentDecision
+    TreatmentDecision --> Mitigate
+    TreatmentDecision --> Transfer
+    TreatmentDecision --> Accept
+    TreatmentDecision --> Avoid
+```
+---
+
 # Author
 
 **Swayam Nandi**
