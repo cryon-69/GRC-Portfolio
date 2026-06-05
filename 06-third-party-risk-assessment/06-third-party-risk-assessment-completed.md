@@ -1,3 +1,4 @@
+````md
 # Third-Party Risk Management (TPRM): Vendor Security Assessment
 
 ## Project Overview
@@ -515,7 +516,6 @@ Additional reviews will occur if:
 
 # Mermaid Diagram
 
-````md
 ```mermaid
 flowchart TD
 
@@ -530,7 +530,6 @@ flowchart TD
     ApprovalDecision --> ConditionalApproval
     ApprovalDecision --> Rejected
 ```
-````
 ---
 
 # Author
@@ -540,4 +539,4 @@ flowchart TD
 Governance, Risk & Compliance (GRC) Portfolio
 
 Third-Party Risk Management | Vendor Security Assessment | Security Governance
-
+````
