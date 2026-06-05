@@ -518,16 +518,28 @@ Additional reviews will occur if:
 ```mermaid
 flowchart TD
 
-    VendorRequest -->| | CriticalityAssessment
-    CriticalityAssessment -->| | QuestionnaireReview
-    QuestionnaireReview -->| | EvidenceValidation
-    EvidenceValidation -->| | RiskAssessment
-    RiskAssessment -->| | ContractReview
-    ContractReview -->| | ApprovalDecision
+    A[Vendor Request]
+    B[Criticality Assessment]
+    C[Questionnaire Review]
+    D[Evidence Validation]
+    E[Risk Assessment]
+    F[Contract Review]
+    G[Approval Decision]
 
-    ApprovalDecision -->| | Approved
-    ApprovalDecision -->| | ConditionalApproval
-    ApprovalDecision -->| | Rejected
+    H[Approved]
+    I[Conditional Approval]
+    J[Rejected]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+
+    G --> H
+    G --> I
+    G --> J
 ```
 ---
 
