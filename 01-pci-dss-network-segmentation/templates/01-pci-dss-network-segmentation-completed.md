@@ -406,6 +406,18 @@ Following remediation of identified findings, the organization is well-positione
 
 ---
 
+# Mermaid Diagram
+
+```mermaid
+flowchart TD
+    Customer --> WebApp
+    WebApp --> PaymentGateway
+    PaymentGateway --> PaymentProcessor
+    PaymentProcessor --> TokenizedResponse
+    TokenizedResponse --> TransactionDB
+```
+---
+
 # Author
 
 **Swayam Nandi**
