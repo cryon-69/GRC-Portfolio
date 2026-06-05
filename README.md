@@ -5,6 +5,16 @@
 
 # Governance, Risk & Compliance (GRC) Portfolio
 
+GRC-Portfolio/
+│
+├── 01-pci-dss-scope-determination
+├── 02-iso27001-statement-of-applicability
+├── 03-eu-ai-act-assessment
+├── 04-grc-control-automation
+├── 05-risk-acceptance-assessment
+│
+└── README.md
+
 ## Overview
 
 This repository contains a collection of practical Governance, Risk & Compliance (GRC) projects designed to demonstrate real-world security governance, compliance, risk management, audit readiness, and security assessment skills.
