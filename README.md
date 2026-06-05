@@ -5,6 +5,7 @@
 
 # Governance, Risk & Compliance (GRC) Portfolio
 
+```text
 GRC-Portfolio/
 │
 ├── 01-pci-dss-scope-determination
@@ -14,6 +15,7 @@ GRC-Portfolio/
 ├── 05-risk-acceptance-assessment
 │
 └── README.md
+```
 
 ## Overview
 
