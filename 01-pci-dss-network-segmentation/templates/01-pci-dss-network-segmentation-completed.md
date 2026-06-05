@@ -1,4 +1,4 @@
-````md
+```
 # PCI DSS Scope Determination & Network Segmentation Assessment
 
 ## Project Overview
@@ -7,7 +7,7 @@ This project simulates a PCI DSS v4.0 scope determination engagement conducted f
 
 The objective was to identify the Cardholder Data Environment (CDE), determine which systems fall within PCI DSS scope, assess network segmentation effectiveness, identify security-impacting assets, and provide recommendations prior to a formal Qualified Security Assessor (QSA) review.
 
----
+```
 
 ## Skills Demonstrated
 
@@ -413,5 +413,5 @@ Following remediation of identified findings, the organization is well-positione
 Governance, Risk & Compliance (GRC) Portfolio
 
 PCI DSS v4.0 | Scope Determination | Security Governance
-````
+
 
