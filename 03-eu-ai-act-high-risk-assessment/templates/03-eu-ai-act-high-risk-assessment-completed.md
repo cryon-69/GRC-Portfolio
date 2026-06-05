@@ -503,13 +503,12 @@ Following remediation of identified findings, the system would be suitable for o
 
 ```mermaid
 flowchart TD
-    RiskIdentification --> RiskAnalysis
-    RiskAnalysis --> RiskEvaluation
-    RiskEvaluation --> TreatmentDecision
-    TreatmentDecision --> Mitigate
-    TreatmentDecision --> Transfer
-    TreatmentDecision --> Accept
-    TreatmentDecision --> Avoid
+    AISystem --> Classification
+    Classification --> HighRisk
+    HighRisk --> RiskManagement
+    RiskManagement --> HumanOversight
+    HumanOversight --> BiasTesting
+    BiasTesting --> DeploymentDecision
 ```
 ---
 
