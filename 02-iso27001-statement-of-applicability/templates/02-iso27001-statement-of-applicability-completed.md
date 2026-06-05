@@ -482,6 +482,19 @@ Based on the assessment, the organization is well-positioned to proceed with:
 
 ---
 
+# Mermaid Diagram
+
+```mermaid
+flowchart LR
+    Employee --> Laptop
+    Laptop --> VPN
+    VPN --> AWS
+    AWS --> SaaSApp
+    AWS --> Database
+    AWS --> SIEM
+```
+---
+
 # Author
 
 **Swayam Nandi**
