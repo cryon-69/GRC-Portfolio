@@ -550,4 +550,3 @@ flowchart TD
 Governance, Risk & Compliance (GRC) Portfolio
 
 Third-Party Risk Management | Vendor Security Assessment | Security Governance
-````
