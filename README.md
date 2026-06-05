@@ -1,3 +1,8 @@
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-2022-blue)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-v4.0-green)
+![SOC2](https://img.shields.io/badge/SOC2-Type%20II-orange)
+![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-High%20Risk-purple)
+
 # Governance, Risk & Compliance (GRC) Portfolio
 
 ## Overview
