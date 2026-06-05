@@ -455,6 +455,24 @@ The design improves audit readiness, reduces operational effort, and strengthens
 
 ---
 
+# Mermaid Diagram
+
+```mermaid
+flowchart TD
+    Workday --> AutomationEngine
+    AzureAD --> AutomationEngine
+    AWSIAM --> AutomationEngine
+    GitHub --> AutomationEngine
+
+    AutomationEngine --> RuleEngine
+    RuleEngine --> AlertEngine
+    RuleEngine --> EvidenceRepository
+
+    AlertEngine --> ComplianceTeam
+    EvidenceRepository --> AuditReports
+```
+---
+
 # Author
 
 **Swayam Nandi**
