@@ -66,9 +66,6 @@ flowchart LR
 | 📉 Risk Acceptance             | Risk Management       | ISO 27001         |
 | 🏢 Vendor Security Assessment  | Third-Party Risk      | TPRM              |
 
-```
-```
-
 ## Overview
 
 This repository contains a collection of practical Governance, Risk & Compliance (GRC) projects designed to demonstrate real-world security governance, compliance, risk management, audit readiness, and security assessment skills.
