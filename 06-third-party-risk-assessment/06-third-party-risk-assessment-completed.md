@@ -1,4 +1,3 @@
-````md
 # Third-Party Risk Management (TPRM): Vendor Security Assessment
 
 ## Project Overview
